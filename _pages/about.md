@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 <br/> 
-<br/> 
 
 I am a Ph.D. student from [School of Automation](https://zdhxy.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn). My research interests include computer vision, model compression, expert systems, and machine learning.
 
