@@ -22,7 +22,7 @@ repository               : "Yunhe-Zhao/Yunhe-Zhao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jixuanyou.png"
+  avatar           : "jixuanyou.pg"
   name             : "Yunhe Zhao"
   pronouns         : # example: "she/her" 
   bio              : # "Short biography for the left-hand sidebar"
