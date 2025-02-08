@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<br>
+
 I am a Ph.D. student from [School of Automation](https://zdhxy.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn). My research interests include computer vision, model compression, efficient inference, and machine learning.
 
 I am very fortunate to be advised by Prof. [Xiwen Yao](https://scholar.google.com.hk/citations?user=XqrlEUoAAAAJ&hl=zh-CN&oi=ao) of [Brain Lab](https://nwpu-brainlab.github.io/) from [School of Automation](https://zdhxy.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn). 
