@@ -11,6 +11,6 @@ I am a Ph.D. student at the School of Automation, Northwestern Polytechnical Uni
 
 I am very fortunate to be advised by Prof. Xiwen Yao of the Brain Lab at Northwestern Polytechnical University. 
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](mailto:zhaoyunhe@mail.nwpu.edu.cn) / [Github](https://github.com/Yunhe-Zhao) / [Wechat](../images/wechat.jpg) 
 
 
