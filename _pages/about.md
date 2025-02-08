@@ -1,5 +1,7 @@
 ---
 permalink: /
+<br/> 
+<br/> 
 title: "About me"
 author_profile: true
 redirect_from: 
@@ -7,8 +9,6 @@ redirect_from:
   - /about.html
 ---
 
-<br/> 
-<br/> 
 <br/> 
 <br/> 
 
