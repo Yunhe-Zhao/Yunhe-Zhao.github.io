@@ -22,11 +22,15 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "jixuanyou.jpg"
   name             : "Yunhe Zhao"
+  pronouns         : # example: "she/her" 
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "China Xian"
+  employer         : # "Red Brick University"
+  uri              : # URL
   email            : "zhaoyunhe@mail.nwpu.edu.cn" 
-
+  
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
